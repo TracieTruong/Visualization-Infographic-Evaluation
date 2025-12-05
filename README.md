@@ -16,11 +16,11 @@ I evaluated an Infographic on Jobs First Durham Labour Market Insights
 5. Who is its audience? How much graphical or statistical literacy will they need to read it? Is this graphic designed for a lay or professional user? Policy makers?  
 => The audience can be job seekers, students, who are looking for the status and job trends in the Durham region. It i also useful for employers, organizations and local government agencies interested in labour market.  
 => The graphic is well designed and written in plain language so that it’s accessible to the public.
-6. Is there anything that looks misleading? Is anything missing?
+6. Is there anything that looks misleading? Is anything missing?  
 => No, the graphic represents the data perfectly well.
 7. Is it trying to be persuasive? Is there an argument? If so, is it effective? Are the designer's biases clear? How could it be impactful?  
 => Yes, it is trying to be persuasive in an informative way when aiming to highlight labour market demands in Durham
 8. Could you create a similar graphic using conventional visualization software? If so, what software application(s) would you use?  
 => I am well-versed with Canva, so I will use it to create a similar graphic
 9. If you were to redesign elements of it, what might you change? 
-=> The current palette is bold but heavy. I would reduce saturated navy in charts to improve readability
+=> The current palette is bold but heavy. I would reduce the saturated navy in charts to improve readability
