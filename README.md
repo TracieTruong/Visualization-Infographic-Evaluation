@@ -24,3 +24,5 @@ I evaluated an Infographic on Jobs First Durham Labour Market Insights
 => I am well-versed with Canva, so I will use it to create a similar graphic
 9. If you were to redesign elements of it, what might you change? 
 => The current palette is bold but heavy. I would reduce the saturated navy in charts to improve readability
+
+[Return to my portfolio](https://tracietruong.github.io/Portfolio/)
